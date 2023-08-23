@@ -26,6 +26,9 @@ export default function Home({allPostsData}) {
           Este é um site de exemplo criado para seguir o tutorial apresentado na página de documentações do Next.js.
           Pode ser acessado <a href="https://nextjs.org/learn">  aqui</a>.
         </p>
+        <p>Siga-me nas redes sociais:</p>
+        <p><a href='https://linkedin.com.br/in/nicoleguido'>Linkedin</a></p>
+        <p><a href='https://github.com/mspatronum'>Github</a></p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
